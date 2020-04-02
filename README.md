@@ -6,15 +6,15 @@ to run 1-download the files 2-open the file directory in terminal 3-run npm inst
 
 you will need google oauth keys to access
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/veeralsharma/Cofessions/blob/master/1.PNG)
 
 
-![alt text](http://url/to/img.png)
-
-
-
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/veeralsharma/Cofessions/blob/master/2.PNG)
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/veeralsharma/Cofessions/blob/master/3.PNG)
+
+
+
+![alt text](https://github.com/veeralsharma/Cofessions/blob/master/4.PNG)
